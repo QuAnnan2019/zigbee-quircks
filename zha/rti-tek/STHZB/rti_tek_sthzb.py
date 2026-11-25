@@ -1,3 +1,5 @@
+"""Minimal ZHA identification Quirk for Rti-Tek STHZB."""
+
 from zhaquirks.builder import QuirkBuilder
 
 
